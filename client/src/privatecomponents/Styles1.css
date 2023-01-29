@@ -1,0 +1,38 @@
+.background-style{
+    background-color: darkgray;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    
+}
+.img1{
+    height: 10%;
+    width: 10%;
+}
+
+
+.button1-style{
+      background-color: #73BE73;
+      border:none;
+      color: #ffffff;
+      padding: 10px;
+      border-radius: 5px;
+      
+      
+      
+}
+
+.background-style1{
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 40px;
+    
+}
+
+.div1-style{
+    text-align: center;
+}
+
+.head-style{
+    color: #dc143c;
+}

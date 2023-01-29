@@ -1,0 +1,4 @@
+http://localhost:5000/demo/tharun/123456
+
+to get the structure in mongoDB
+for further insertion of csv file properly

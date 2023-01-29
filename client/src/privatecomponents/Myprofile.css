@@ -1,0 +1,14 @@
+.textareaa{
+    width:25rem
+}
+
+
+@media screen and (max-width: 400px){
+    .msg
+    {
+        width: 90%;
+    }
+    .textareaa{
+        width:15rem
+    }
+}
